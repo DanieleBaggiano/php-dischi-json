@@ -1,0 +1,26 @@
+.bg-color {
+    background-color: rgb(29 45 60);
+    padding: 50px;
+    width: 90%;
+}
+
+.bg-color-title {
+    background-color: rgb(6 19 31);
+}
+
+.header {
+    margin-bottom: 0;
+    padding: 20px 0;
+    color: white;
+}
+
+.bg-card {
+    background-color: rgb(17 32 48);
+    padding: 20px;
+    color: white;
+}
+
+.img {
+    width: 40px;
+    height: 40px;
+}
